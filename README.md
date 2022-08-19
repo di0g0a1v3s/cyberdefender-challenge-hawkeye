@@ -104,19 +104,29 @@ Answer: tkraw_Protected99.exe
 
 ## 15. What is the md5 hash of the downloaded file?
 
-Answer:
+![image](https://user-images.githubusercontent.com/60743836/185674472-67f8e102-a004-4846-bfb5-52c735de86a1.png)
+
+Answer: 71826ba081e303866ce2a2534491a2f7
 
 ## 16. What is the name of the malware according to Malwarebytes?
 
-Answer:
+![image](https://user-images.githubusercontent.com/60743836/185675275-c54601b1-3924-4d48-ae7d-0e342eb13b44.png)
+
+Answer: Spyware.HawkEyeKeyLogger
 
 ## 17. What software runs the webserver that hosts the malware?
 
-Answer:
+![image](https://user-images.githubusercontent.com/60743836/185676220-050380ee-fdb7-42f8-8d3d-95d0e43589ee.png)
+
+
+Answer: LiteSpeed
 
 ## 18. What is the public IP of the victim's computer?
 
-Answer:
+![image](https://user-images.githubusercontent.com/60743836/185676436-d65abd01-759c-4d35-b37a-a6af069de477.png)
+
+
+Answer: 173.66.146.112
 
 ## 19. In which country is the email server to which the stolen information is sent?
 
