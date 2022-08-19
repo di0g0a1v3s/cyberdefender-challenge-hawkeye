@@ -130,32 +130,56 @@ Answer: 173.66.146.112
 
 ## 19. In which country is the email server to which the stolen information is sent?
 
-Answer:
+![image](https://user-images.githubusercontent.com/60743836/185678504-5679d464-2ecd-4232-83eb-149bf8580c7f.png)
+
+Answer: United States
 
 ## 20. What is the domain's creation date to which the information is exfiltrated?
 
-Answer:
+![image](https://user-images.githubusercontent.com/60743836/185678292-50641494-473d-4fe5-818d-893ec5fdd6b4.png)
+
+
+Answer: 2014-02-08
 
 ## 21. Analyzing the first extraction of information. What software runs the email server to which the stolen data is sent?
 
-Answer:
+![image](https://user-images.githubusercontent.com/60743836/185678996-7eb400f6-8ddf-4214-8c6e-83f3b4e90185.png)
+
+
+Answer: Exim 4.91
 
 ## 22. To which email account is the stolen information sent?
 
-Answer:
+![image](https://user-images.githubusercontent.com/60743836/185679863-102b06e3-bb57-434f-a2ce-8ba0d13817ac.png)
 
-## 23. What is the password used by the malware to send the email?
 
-Answer:
+Answer: sales.del@macwinlogistics.in
+
+
+## 23. What is the password used by the malware to send the email?º
+
+![image](https://user-images.githubusercontent.com/60743836/185684928-c7cf8f30-d2a7-46b1-ba4c-26cb73cd0d12.png)
+
+
+Answer: Sales@23
 
 ## 24. Which malware variant exfiltrated the data?
 
-Answer:
+![image](https://user-images.githubusercontent.com/60743836/185680493-15fccf63-62ac-45ce-a8b2-d9d5c26aa42c.png)
+
+
+Answer: Reborn v9
 
 ## 25. What are the bankofamerica access credentials? (username:password)
 
-Answer:
+![image](https://user-images.githubusercontent.com/60743836/185680582-a0bb13fb-83e5-4acd-b83d-f24d38780a55.png)
+
+
+Answer: roman.mcguire:P@ssw0rd$
 
 ## 26. Every how many minutes does the collected data get exfiltrated?
 
-Answer:
+![image](https://user-images.githubusercontent.com/60743836/185680847-3bc2ccee-d7f0-42ed-9fd4-ea58f081f654.png)
+
+
+Answer: 10
