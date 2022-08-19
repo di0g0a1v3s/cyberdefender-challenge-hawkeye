@@ -90,11 +90,17 @@ Answer: France
 
 ## 13. What operating system does the victim's computer run?
 
-Answer:
+![image](https://user-images.githubusercontent.com/60743836/185656102-410878aa-90e8-45a4-aa6c-2f72e7cf319f.png)
+
+
+Answer: Windows NT 6.1
 
 ## 14. What is the name of the malicious file downloaded by the accountant?
 
-Answer:
+![image](https://user-images.githubusercontent.com/60743836/185656205-bbed7cf9-179f-403f-bb91-04139f9be9de.png)
+
+
+Answer: tkraw_Protected99.exe
 
 ## 15. What is the md5 hash of the downloaded file?
 
